@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="tetrahedron_result" size="7.000000 7.000000" />
+    <ImageTarget name="pyramid" size="7.000000 7.000000" />
+    <ImageTarget name="dodecahedran" size="7.000000 7.000000" />
+    <ImageTarget name="octahedron" size="7.000000 6.636000" />
+    <ImageTarget name="icosahedron" size="7.000000 7.389375" />
+    <ImageTarget name="cube" size="7.000000 7.000000" />
+    <ImageTarget name="diamond" size="7.000000 7.000000" />
+  </Tracking>
+</QCARConfig>
